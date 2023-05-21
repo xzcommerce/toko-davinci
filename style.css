@@ -182,7 +182,7 @@ a {
     height: 246px;
     left: 6px;
     top: 8px;
-    background: url("/assets/mask-1.png") no-repeat;
+    background: url("./assets/mask-1.png") no-repeat;
     background-size: cover;
     border-radius: 32px;
 }
@@ -193,7 +193,7 @@ a {
     height: 246px;
     left: 479px;
     top: 8px;
-    background: url("/assets/mask-2.png") no-repeat;
+    background: url("./assets/mask-2.png") no-repeat;
     background-size: cover;
     border-radius: 32px;   
 }
@@ -204,7 +204,7 @@ a {
     height: 145px;
     left: 771px;
     top: 8px;
-    background: url("/assets/mask-3.png") no-repeat;
+    background: url("./assets/mask-3.png") no-repeat;
     background-size: cover;
     border-radius: 32px;
 }
@@ -215,7 +215,7 @@ a {
     height: 174px;
     left: 6px;
     top: 267px;
-    background: url("/assets/mask-4.png") no-repeat;
+    background: url("./assets/mask-4.png") no-repeat;
     background-size: cover;
     border-radius: 32px;
 }
@@ -226,7 +226,7 @@ a {
     height: 380px;
     left: 324px;
     top: 267px;
-    background: url("/assets/mask-5.png") no-repeat;
+    background: url("./assets/mask-5.png") no-repeat;
     background-size: cover;
     border-radius: 32px;
 }
@@ -237,7 +237,7 @@ a {
     height: 276px;
     left: 770px;
     top: 165px;
-    background: url("/assets/mask-6.png") no-repeat;
+    background: url("./assets/mask-6.png") no-repeat;
     background-size: cover;
     border-radius: 32px;
 }
@@ -248,7 +248,7 @@ a {
     height: 316px;
     left: 6px;
     top: 453px;
-    background-image: url("/assets/mask-7.png"), radial-gradient(76.11% 76.11% at 50% 105.85%, #441B8A 0%, #1C1D38 100%);
+    background-image: url("./assets/mask-7.png"), radial-gradient(76.11% 76.11% at 50% 105.85%, #441B8A 0%, #1C1D38 100%);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 32px;
@@ -260,7 +260,7 @@ a {
     height: 194px;
     left: 769px;
     top: 453px;
-    background: url("/assets/mask-8.png") no-repeat;
+    background: url("./assets/mask-8.png") no-repeat;
     background-size: cover;
     border-radius: 32px;
 }
@@ -271,7 +271,7 @@ a {
     height: 122px;
     left: 6px;
     top: 785px;
-    background: url("/assets/mask-9.png") no-repeat;
+    background: url("./assets/mask-9.png") no-repeat;
     background-size: cover;
     border-radius: 32px;
 }
@@ -282,7 +282,7 @@ a {
     height: 245px;
     left: 324px;
     top: 662px;
-    background: url("/assets/mask-10.png") no-repeat;
+    background: url("./assets/mask-10.png") no-repeat;
     background-size: cover;
     border-radius: 32px;
 }
@@ -293,7 +293,7 @@ a {
     height: 247px;
     left: 618px;
     top: 660px;
-    background: url("/assets/mask-11.png") no-repeat;
+    background: url("./assets/mask-11.png") no-repeat;
     background-size: cover;
     border-radius: 32px;
 }
@@ -332,7 +332,7 @@ a {
     height: 107px;
     left: 5px;
     top: 1px;
-    background: url(/assets/r10.png);
+    background: url(./assets/r10.png);
     background-size: cover;
     border-radius: 10px;
 }
@@ -343,7 +343,7 @@ a {
     height: 127px;
     left: 548px;
     top: 1px;
-    background: url(/assets/r9.png);
+    background: url(./assets/r9.png);
     background-size: cover;
     border-radius: 10px;
 }
@@ -354,7 +354,7 @@ a {
     height: 128px;
     left: 5px;
     top: 132px;
-    background: url(/assets/r4.png);
+    background: url(./assets/r4.png);
     background-size: cover;
     border-radius: 10px;
 }
@@ -376,7 +376,7 @@ a {
     height: 105px;
     left: 5px;
     top: 285px;
-    background: url(/assets/r6.png);
+    background: url(./assets/r6.png);
     background-size: cover;
     border-radius: 10px;
 }
@@ -387,7 +387,7 @@ a {
     height: 106px;
     left: 549px;
     top: 353px;
-    background: url(/assets/r1.png);
+    background: url(./assets/r1.png);
     background-size: cover;
     border-radius: 10px;
 }
@@ -398,7 +398,7 @@ a {
     height: 42px;
     left: 5px;
     top: 417px;
-    background: url(/assets/r3.png);
+    background: url(./assets/r3.png);
     background-size: cover;
     border-radius: 10px;
 }
