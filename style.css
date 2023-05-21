@@ -365,7 +365,7 @@ a {
     height: 183px;
     left: calc(50% - 513.67px/2 + 272.33px);
     top: 149px;
-    background: url(/assets/r5.png);
+    background: url(./assets/r5.png);
     background-size: cover;
     border-radius: 10px;
 }

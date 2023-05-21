@@ -74,7 +74,7 @@ const emojis = [
 button.addEventListener("click", function() {
   const emoji = document.createElement("img");
   const randomIndex = Math.floor(Math.random() * emojis.length);
-  emoji.src = `/assets/${emojis[randomIndex]}`;
+  emoji.src = `./assets/${emojis[randomIndex]}`;
 
   emoji.style.position = "absolute";
   emoji.style.top = "0";
